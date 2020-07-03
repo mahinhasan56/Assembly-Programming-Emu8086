@@ -7,3 +7,6 @@
 3.Paste Files in Editor
 
 4.Simulate Program
+
+This Assembly Project has addition ,subtraction,multiplication,array manipulation,min-max finding,sorting etc.
+
